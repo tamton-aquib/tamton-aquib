@@ -1,15 +1,15 @@
 <h1 align="center">Hi guys 👋</h1>
 <h3 align="center">Just a regular old dude, who knows nearly nothing.</h3>
 
-- 🔭 I’m currently working on **My website**
+- 🔭 I’m currently working on    **My website**
 
-- 🌱 I’m currently learning **Nothing atm**
+- 🌱 I’m currently learning    **Nothing atm**
 
-- 🤝 I’m looking for help with **javascript**
+- 🤝 I’m looking for help with    **javascript**
 
-- 💬 Ask me about **Stock market or chemical equations**
+- 💬 Ask me about    **Stock market or chemical equations**
 
-- ⚡ Fun fact **I don't know half of stuff in Languages and tools section :point_down:**
+- ⚡ Fun fact    **I don't know half of stuff in Languages and tools section :point_down:**
 
 
 <h3 align="left">Languages and Tools:</h3>
