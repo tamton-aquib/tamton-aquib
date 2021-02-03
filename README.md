@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aquib</h1>
+<h1 align="center">Hi guys 👋</h1>
 <h3 align="center">Just a regular old dude, who knows nearly nothing.</h3>
 
 - 🔭 I’m currently working on **My website**
