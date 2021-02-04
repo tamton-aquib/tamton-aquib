@@ -1,4 +1,4 @@
-### Hi guys  <a href="https://tamton-aquib.github.io/my-website/"><img src="https://media.giphy.com/media/12B39IawiNS7QI/giphy.gif" width="30px"></a>
+### Hi guys  <a href="https://tamton-aquib.github.io/my-website/"><img src="https://www.clipartmax.com/png/middle/188-1887171_your-turn-people-waving-hands-gif-transparent.png" width="30px"></a>
 Just a regular old dude, who knows nearly nothing.
 
 - 🔭 I’m currently working on    **[My website](https://tamton-aquib.github.io/my-website/)**.
