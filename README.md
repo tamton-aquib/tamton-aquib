@@ -9,7 +9,7 @@
 
 - 💬 Ask me about    **Stock market or chemical equations**.
 
-- ⚡ Fun fact    **I don't know half of stuff in Languages and tools section :point_down:**.
+- ⚡ Fun fact    **I don't know half of stuff listed in `Languages and tools` section :point_down:**.
 
 
 <h3 align="left">Languages and Tools:</h3>
