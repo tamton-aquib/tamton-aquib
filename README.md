@@ -1,7 +1,7 @@
 <h1 align="center">Hi guys 👋</h1>
 <h3 align="center">Just a regular old dude, who knows nearly nothing.</h3>
 
-- 🔭 I’m currently working on    **My website**.
+- 🔭 I’m currently working on    **[My website](https://tamton-aquib.github.io/my-website/)**.
 
 - 🌱 I’m currently learning    **Nothing atm**.
 
