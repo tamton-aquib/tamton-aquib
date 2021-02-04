@@ -5,7 +5,7 @@ Just a regular old dude, who knows nearly nothing.
 
 - 🌱 I’m currently learning    **Nothing atm**.
 
-- 🤝 I’m looking for help with    **Javascript**.
+- 🤝 I’m looking for help with    **My life.**.
 
 - 💬 Ask me about    **Stock market or chemical equations**.
 
