@@ -1,4 +1,4 @@
-<h1 align="center">Hi guys 👋</h1>
+### Hi guys <a href="https://tamton-aquib.github.io/my-website/"><img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="25px"></a>
 <h3 align="center">Just a regular old dude, who knows nearly nothing.</h3>
 
 - 🔭 I’m currently working on    **[My website](https://tamton-aquib.github.io/my-website/)**.
