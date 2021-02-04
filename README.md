@@ -1,5 +1,5 @@
-### Hi guys  <a href="https://tamton-aquib.github.io/my-website/"><img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="35px"></a>
-<h3 align="center">Just a regular old dude, who knows nearly nothing.</h3>
+### Hi guys  <a href="https://tamton-aquib.github.io/my-website/"><img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="30px"></a>
+Just a regular old dude, who knows nearly nothing.
 
 - 🔭 I’m currently working on    **[My website](https://tamton-aquib.github.io/my-website/)**.
 
