@@ -1,4 +1,4 @@
-## Hi guys :fingers_crossed:
+## Hi guys 🤞
 #### Just a regular old dude, who knows nearly nothing.
 
 - 🔭 I’m currently working on    **[My website](https://tamton-aquib.github.io/my-website/)**.
