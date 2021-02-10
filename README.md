@@ -1,5 +1,8 @@
 ## Hi guys 🤞
 #### Just a regular old dude, who knows nearly nothing.
+<p align='center'>
+    <img src = 'buildings.png' width = '300' >
+</p>
 
 - 🔭 I’m currently working on    **[My website](https://tamton-aquib.github.io/my-website/)**.
 
