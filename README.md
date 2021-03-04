@@ -4,6 +4,8 @@
     <img src = 'buildings.png' width = '1100' height = "50" >
 </p>
 
+![](https://komarev.com/ghpvc/?username=tamton-aquib&style=flat-square&color=blueviolet)
+
 - 🔭 I’m currently working on    **[My website](https://tamton-aquib.github.io/my-website/)**.
 
 - 🌱 I’m currently learning    **Nothing atm**.
