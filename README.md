@@ -20,8 +20,7 @@
 
 ### Github Status:
 <details>
-</summary>
-</summary>
+<summary>Click to see details.</summary>
 
 [![Aquib's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamton-aquib&show_icons=true&theme=highcontrast&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
