@@ -30,6 +30,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tamton_aquib" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tamton_aquib" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/845674119391477820" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="tamton_aquib" height="30" width="40" /></a>
+<a href="https://dev.to/https://dev.to/tamtonaquib" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/tamtonaquib" height="30" width="40" /></a>
+<a href="https://twitter.com/tamton_aquib" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tamton_aquib" height="30" width="40" /></a>
 </p>
