@@ -4,7 +4,7 @@
     <img src = 'buildings.png' width = '1100' height = "50" >
 </p>
 
-- 🔭 I’m currently working on    **[My website](https://tamtonaquib.tk)**.
+- 🔭 I’m currently working on    **[My website](https://tamton-aquib.github.io)**.
 
 - 🌱 I’m currently learning    **Nothing atm**.
 
