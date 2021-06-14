@@ -22,7 +22,7 @@
 <details>
 <summary>Click to see details.</summary>
 
-[![Aquib's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamton-aquib&show_icons=true&theme=highcontrast&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Aquib's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamton-aquib&hide=prs&show_icons=true&theme=highcontrast&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamton-aquib&hide=Vim+Script,Vim+Snippet,C&theme=highcontrast&hide_border=true&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
