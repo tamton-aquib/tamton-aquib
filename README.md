@@ -1,7 +1,7 @@
 ## Heyyooo...!! 💃
 #### I'm Tamton Aquib Javed, aka TAJ.
 <p align='center'>
-    <img src='https://i.imgur.com/i8UyuPT.png' />
+    <img src='https://i.imgur.com/qLKSbiI.png' />
 </p>
 
 - 🔭 I’m currently working on    **[My website](https://tamtonaquib.tk)**.
