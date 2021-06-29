@@ -32,24 +32,20 @@
 </p>
 
 ### Github Status:
-<details>
-<summary>Click to see details.</summary>
 
 [![Aquib's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamton-aquib&hide=prs&custom_title=My%20Github%20Stat's&show_icons=true&theme=dracula&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamton-aquib&hide=Vim+Script,Vim+Snippet,C&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
-
 ### Connect with me:
 <p align="left">
-<a href="https://discordapp.com/users/845674119391477820" target="blank">
+<a style="padding: 20px" href="https://discordapp.com/users/845674119391477820" target="blank">
 	<img align="center" target="_blank" src="https://img.icons8.com/color/96/000000/discord.png" width="30" />
 </a>
-<a href="https://dev.to/tamtonaquib" target="blank">
+<a style="padding: 20px" href="https://dev.to/tamtonaquib" target="blank">
 	<img align="center" target="_blank" src="https://img.icons8.com/windows/96/000000/dev.png" alt="tamton_aquib" width="30" />
 </a>
-<a href="https://twitter.com/tamton_aquib" target="blank">
+<a style="padding: 20px" href="https://twitter.com/tamton_aquib" target="blank">
 	<img align="center" target="_blank" src="https://img.icons8.com/plasticine/100/000000/twitter--v2.png" alt="tamton_aquib" width="30" />
 </a>
 </p>
