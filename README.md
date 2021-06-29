@@ -16,6 +16,7 @@
 
 
 ### Languages and Tools:
+<!--
 <p align="left"> 
  <img src="https://miro.medium.com/max/2300/1*FEE98iWinlZBYkxBAG8MvA.png" alt="bash" width="35" height="35"/>  
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/>  
@@ -29,6 +30,21 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>  
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>  
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="30" height="30"/>  
+</p>
+-->
+
+<p align="left"> 
+	<img src="https://img.icons8.com/material-sharp/48/4a90e2/arch-linux.png" alt="I use Arch btw" width="30"/>
+	<img src="https://img.icons8.com/ios-filled/50/fa314a/git.png" width="30"/>
+	<img src="https://img.icons8.com/ios-filled/50/4a90e2/c-plus-plus-logo.png" width="30"/>
+	<img src="https://img.icons8.com/ios-glyphs/60/fa314a/css3.png" width="30"/>
+	<img src="https://img.icons8.com/color/48/4a90e2/dart.png" width="30"/>
+	<img src="https://img.icons8.com/windows/96/fa314a/console.png" width="30"/>
+	<img src="https://img.icons8.com/ios-filled/50/4a90e2/flutter.png" width="30"/>
+	<img src="https://img.icons8.com/ios-filled/50/fa314a/html-5--v2.png" width="30"/>
+	<img src="https://img.icons8.com/ios-glyphs/30/4a90e2/javascript.png" width="30"/>
+	<img src="https://img.icons8.com/ios-filled/50/fa314a/java-coffee-cup-logo--v1.png" width="30"/>
+	<img src="https://img.icons8.com/ios-filled/50/4a90e2/python.png" width="30"/>
 </p>
 
 ### Github Status:
