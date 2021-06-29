@@ -39,13 +39,13 @@
 
 ### Connect with me:
 <p align="left">
-<a style="padding: 20px" href="https://discordapp.com/users/845674119391477820" target="blank">
+<a href="https://discordapp.com/users/845674119391477820" target="blank">
 	<img align="center" target="_blank" src="https://img.icons8.com/color/96/000000/discord.png" width="30" />
 </a>
-<a style="padding: 20px" href="https://dev.to/tamtonaquib" target="blank">
+<a href="https://dev.to/tamtonaquib" target="blank">
 	<img align="center" target="_blank" src="https://img.icons8.com/windows/96/000000/dev.png" alt="tamton_aquib" width="30" />
 </a>
-<a style="padding: 20px" href="https://twitter.com/tamton_aquib" target="blank">
+<a href="https://twitter.com/tamton_aquib" target="blank">
 	<img align="center" target="_blank" src="https://img.icons8.com/plasticine/100/000000/twitter--v2.png" alt="tamton_aquib" width="30" />
 </a>
 </p>
