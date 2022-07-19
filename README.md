@@ -1,9 +1,10 @@
-<!-- <h4>Its me:</h4> -->
 <p align='center'>
     <img src='https://i.imgur.com/qLKSbiI.png' />
 </p>
 
-<h2 align="center"> 💃 Heyyooo...!!  🕺</h2><br />
+---
+
+<h3 align="center"> 💃 Heyyooo...!!  🕺</h3><br />
 
 - 🔭 I’m currently working on  **[My website](https://tamton-aquib.github.io)**.
 - 🌱 I’m currently learning  **no idea tbh**.
@@ -11,8 +12,9 @@
 - 💬 Ask me about  **Stock market or chemical equations**.
 - ⚡ Fun fact:  **I don't know half of stuff listed in `Languages and tools` :point_down:**.
 
+---
 
-<h2 align="center"> Languages, Tools and Stats </h2>
+<h3 align="center"> Languages, Tools and Stats </h3>
 <p align="center"> 
 	<img src="https://img.icons8.com/material-sharp/48/4a90e2/arch-linux.png" alt="I use Arch btw" width="30"/>
 	<img src="https://img.icons8.com/ios-filled/50/fa314a/git.png" width="30"/>
@@ -41,7 +43,7 @@
 
 ---
 
-<h3 align="center"><u>Projects</u></h3>
+<h3 align="center">Projects</h3>
 
 #### Neovim related (lua)
 <table>
@@ -97,7 +99,7 @@
 
 ---
 
-<h3 align="center"><u> Connect with me </u></h3>
+<h3 align="center"> Connect with me </h3>
 <p align="center">
 <a href="https://discordapp.com/users/845674119391477820" target="blank">
 	<img align="center" target="_blank" src="https://img.icons8.com/color/96/000000/discord.png" width="30" />
