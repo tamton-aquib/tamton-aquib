@@ -12,8 +12,8 @@
 - ⚡ Fun fact:  **I don't know half of stuff listed in `Languages and tools` :point_down:**.
 
 
-### Languages and Tools
-<p align="left"> 
+<h2 align="center"> Languages, Tools and Stats </h2>
+<p align="center"> 
 	<img src="https://img.icons8.com/material-sharp/48/4a90e2/arch-linux.png" alt="I use Arch btw" width="30"/>
 	<img src="https://img.icons8.com/ios-filled/50/fa314a/git.png" width="30"/>
 	<img src="https://img.icons8.com/ios-filled/50/4a90e2/c-plus-plus-logo.png" width="30"/>
@@ -29,28 +29,36 @@
 	<img src="https://img.icons8.com/wired/64/4a90e2/svetle.png"/ width="30">
 </p>
 
-### Github Stats
+<!-- <h2 align="center"> Github Stats </h2> -->
+
+<span align="center">
 
 [![Aquib's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamton-aquib&hide=prs&custom_title=My%20Github%20Stat's&show_icons=true&theme=dracula&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamton-aquib&hide=Vim+Script,CSS,Vim+Snippet,C,Roff&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+</span>
+
+---
+
+<h3 align="center"><u>Projects</u></h3>
+
 #### Neovim related (lua)
 <table>
 <tr>
-    <td>staline.nvim</td>
+    <td><a target="_blank" href="https://github.com/tamton-aquib/staline.nvim">staline.nvim</a></td>
     <td>Modern lightweight statusline.</td>
 </tr>
 <tr>
-    <td>duck.nvim</td>
+    <td><a target="_blank" href="https://github.com/tamton-aquib/duck.nvim">duck.nvim</a></td>
     <td>A duck that waddles arbitrarily.</td>
 </tr>
 <tr>
-    <td>zone.nvim</td>
+    <td><a target="_blank" href="https://github.com/tamton-aquib/zone.nvim">zone.nvim</a></td>
     <td>Screensaver plugin for neovim.</td>
 </tr>
 <tr>
-    <td>essentials.nvim</td>
+    <td><a target="_blank" href="https://github.com/tamton-aquib/essentials.nvim">essentials.nvim</a></td>
     <td>Useful utility functions (not a plugin).</td>
 </tr>
 </table>
@@ -58,15 +66,15 @@
 #### Rust related
 <table>
 <tr>
-    <td>veldora</td>
+    <td><a target="_blank" href="https://github.com/tamton-aquib/veldora">veldora</a></td>
     <td>Bruteforce zip, pdf, hashes.</td>
 </tr>
 <tr>
-    <td>graveyard</td>
+    <td><a target="_blank" href="https://github.com/tamton-aquib/graveyard">graveyard</a></td>
     <td>Some small side projects.</td>
 </tr>
 <tr>
-    <td>lazycrate</td>
+    <td><a target="_blank" href="https://github.com/tamton-aquib/lazycrate">lazycrate</a></td>
     <td>TUI for crate management like lazynpm and lazygit.</td>
 </tr>
 </table>
@@ -74,21 +82,23 @@
 #### Python related
 <table>
 <tr>
-    <td>bruttle</td>
+    <td><a target="_blank" href="https://github.com/tamton-aquib/bruttle">bruttle</a></td>
     <td>Bruteforce script for zip, pdf, hashes.</td>
 </tr>
 <tr>
-    <td>ttt</td>
+    <td><a target="_blank" href="https://github.com/tamton-aquib/ttt">ttt</a></td>
     <td>Typing Test with Tinkter.</td>
 </tr>
 <tr>
-    <td>imreco</td>
+    <td><a target="_blank" href="https://github.com/tamton-aquib/imreco">imreco</a></td>
     <td>Image Resizer and Converter.</td>
 </tr>
 </table>
 
-### Connect with me
-<p align="left">
+---
+
+<h3 align="center"><u> Connect with me </u></h3>
+<p align="center">
 <a href="https://discordapp.com/users/845674119391477820" target="blank">
 	<img align="center" target="_blank" src="https://img.icons8.com/color/96/000000/discord.png" width="30" />
 </a>&ensp;
