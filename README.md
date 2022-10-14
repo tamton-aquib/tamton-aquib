@@ -1,8 +1,6 @@
-<p align='center'>
+<!-- <p align='center'>
     <img src='https://i.imgur.com/qLKSbiI.png' />
-</p>
-
----
+</p> -->
 
 <h3 align="center"> 💃 Heyyooo...!!  🕺</h3><br />
 
@@ -45,8 +43,29 @@
 
 <h3 align="center">Projects</h3>
 
+#### Python related
+<table>
+<tr>
+    <td><a target="_blank" href="https://github.com/tamton-aquib/LoanPy">LoanPy</a></td>
+    <td>Real-time Loan prediction with machine learning.</td>
+</tr>
+<tr>
+    <td><a target="_blank" href="https://github.com/tamton-aquib/bruttle">bruttle</a></td>
+    <td>Bruteforce script for zip, pdf, hashes.</td>
+</tr>
+<tr>
+    <td><a target="_blank" href="https://github.com/tamton-aquib/ttt">ttt</a></td>
+    <td>Typing Test with Tinkter.</td>
+</tr>
+</table>
+
+
 #### Neovim related (lua)
 <table>
+<tr>
+    <td><a target="_blank" href="https://github.com/tamton-aquib/zone.nvim">zone.nvim</a></td>
+    <td>Screensaver plugin for neovim.</td>
+</tr>
 <tr>
     <td><a target="_blank" href="https://github.com/tamton-aquib/staline.nvim">staline.nvim</a></td>
     <td>Modern lightweight statusline.</td>
@@ -54,14 +73,6 @@
 <tr>
     <td><a target="_blank" href="https://github.com/tamton-aquib/duck.nvim">duck.nvim</a></td>
     <td>A duck that waddles arbitrarily.</td>
-</tr>
-<tr>
-    <td><a target="_blank" href="https://github.com/tamton-aquib/zone.nvim">zone.nvim</a></td>
-    <td>Screensaver plugin for neovim.</td>
-</tr>
-<tr>
-    <td><a target="_blank" href="https://github.com/tamton-aquib/essentials.nvim">essentials.nvim</a></td>
-    <td>Useful utility functions (not a plugin).</td>
 </tr>
 </table>
 
@@ -72,28 +83,12 @@
     <td>Bruteforce zip, pdf, hashes.</td>
 </tr>
 <tr>
-    <td><a target="_blank" href="https://github.com/tamton-aquib/graveyard">graveyard</a></td>
-    <td>Some small side projects.</td>
+    <td><a target="_blank" href="https://github.com/tamton-aquib/ice">ice</a></td>
+    <td>A lightweight utility for CTFs. (WIP)</td>
 </tr>
 <tr>
     <td><a target="_blank" href="https://github.com/tamton-aquib/lazycrate">lazycrate</a></td>
-    <td>TUI for crate management like lazynpm and lazygit.</td>
-</tr>
-</table>
-
-#### Python related
-<table>
-<tr>
-    <td><a target="_blank" href="https://github.com/tamton-aquib/bruttle">bruttle</a></td>
-    <td>Bruteforce script for zip, pdf, hashes.</td>
-</tr>
-<tr>
-    <td><a target="_blank" href="https://github.com/tamton-aquib/ttt">ttt</a></td>
-    <td>Typing Test with Tinkter.</td>
-</tr>
-<tr>
-    <td><a target="_blank" href="https://github.com/tamton-aquib/imreco">imreco</a></td>
-    <td>Image Resizer and Converter.</td>
+    <td>TUI for crate management like lazynpm and lazygit. (WIP)</td>
 </tr>
 </table>
 
