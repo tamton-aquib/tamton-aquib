@@ -1,14 +1,6 @@
-<!-- <p align='center'>
-    <img src='https://i.imgur.com/qLKSbiI.png' />
-</p> -->
+<h2 align="center"> 💃 Heyyooo...!!  🕺</h2>
 
-<h3 align="center"> 💃 Heyyooo...!!  🕺</h3><br />
-
-- 🔭 I’m currently working on  **[My website](https://tamton-aquib.github.io)**.
-- 🌱 I’m currently learning  **no idea tbh**.
-- 🤝 I’m looking for help with  **My life.**
-- 💬 Ask me about  **Stock market or chemical equations**.
-- ⚡ Fun fact:  **I don't know half of stuff listed in `Languages and tools` :point_down:**.
+<p align="center"> I'm Just a dude who likes to code. </p>
 
 ---
 
@@ -33,10 +25,17 @@
 
 <span align="center">
 
+<div align="center">
+
 [![Aquib's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamton-aquib&hide=prs&custom_title=My%20Github%20Stat's&show_icons=true&theme=dracula&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamton-aquib&hide=Vim+Script,CSS,Lua,C,Roff&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 </span>
 
 ---
