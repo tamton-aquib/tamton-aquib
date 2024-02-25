@@ -1,0 +1,37 @@
+name: Counting starz 🌠 ...
+
+# TODO: Without poetry?
+# TODO: On Schedule?
+on:
+  push:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+
+    - name: Install poetry
+      run: |
+        pip install poetry
+        poetry update
+
+    - name: Run starz
+      run: |
+        poetry run python starz.py
+        git config --global user.email "github-actions@example.com"
+        git config --global user.name "GitHub Actions"
+        git add .
+        git commit -m "Update README.md"
+
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main

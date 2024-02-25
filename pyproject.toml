@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "tamton-aquib"
+version = "0.1.0"
+description = "The CI auto updation code."
+authors = ["Tamton Aquib <aquibjavedt007@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

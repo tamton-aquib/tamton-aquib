@@ -1,11 +1,11 @@
 <h2 align="center"> 💃 Heyyooo...!!  🕺</h2>
 
-<p align="center"> I'm Just a dude who likes to code. </p>
+<p align="center"> Just a dude, who likes to code. </p>
 
 ---
 
 <h3 align="center"> Languages, Tools and Stats </h3>
-<p align="center"> 
+<p align="center">
 	<img src="https://img.icons8.com/material-sharp/48/4a90e2/arch-linux.png" alt="I use Arch btw" width="30"/>
 	<img src="https://img.icons8.com/ios-filled/50/fa314a/git.png" width="30"/>
 	<img src="https://img.icons8.com/ios-filled/50/4a90e2/c-plus-plus-logo.png" width="30"/>
@@ -92,6 +92,9 @@
 </table>
 
 ---
+
+<!-- BEGIN -->
+<!-- END -->
 
 <h3 align="center"> Connect with me </h3>
 <p align="center">
