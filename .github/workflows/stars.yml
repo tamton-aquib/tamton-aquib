@@ -1,9 +1,11 @@
 name: Counting starz 🌠 ...
+  # TODO: Without poetry?
 
-# TODO: Without poetry?
-# TODO: On Schedule?
 on:
-  push:
+  workflow_dispatch:
+  schedule:
+    # Run every Monday (ugh)
+    - cron: '0 0 * * 1'
 
 jobs:
   build:

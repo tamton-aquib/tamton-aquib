@@ -29,7 +29,7 @@ for repo in top_repos:
     res += f"| {repo['description']} |\n"
 
 res += """
-<sup>This table was automatically generated as a fun experiment from a [github workflow action](https://github.com/tamton-aquib/tamton-aquib/blob/main/starz.py).</sup>
+<sup>This table was automatically generated as a fun experiment from [this](https://github.com/tamton-aquib/tamton-aquib/blob/main/starz.py) github workflow action.</sup>
 
 ---
 """
