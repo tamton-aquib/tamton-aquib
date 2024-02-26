@@ -114,7 +114,7 @@
 | 17 | 0 | [ice](https://api.github.com/repos/tamton-aquib/ice) | A simple ctf tool store. |
 | 16 | 3 | [bruttle](https://api.github.com/repos/tamton-aquib/bruttle) | A small python script to bruteforce zips,pdfs and some popular hashes.  |
 
-<sup>This table was automatically generated as a fun experiment from a [github workflow action](https://github.com/tamton-aquib/tamton-aquib/blob/main/starz.py).</sup>
+<sup>This table was automatically generated as a fun experiment from [this](https://github.com/tamton-aquib/tamton-aquib/blob/main/starz.py) github workflow action.</sup>
 
 ---
 
