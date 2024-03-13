@@ -33,7 +33,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamton-aquib&hide=Vim+Script,Emacs+Lisp,CSS,Lua,Shell,C,Roff&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamton-aquib&hide=Vim+Script,Emacs+Lisp,Lua,Shell,C,Roff&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 </span>
