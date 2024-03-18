@@ -99,16 +99,16 @@
 
 | :star2: | :fork_and_knife: | Name | Description |
 |---|---|---|---|
-| 560 | 7 | [duck.nvim](https://api.github.com/repos/tamton-aquib/duck.nvim) | A duck that waddles arbitrarily in neovim. |
-| 317 | 13 | [staline.nvim](https://api.github.com/repos/tamton-aquib/staline.nvim) | A modern lightweight statusline and bufferline plugin for neovim in lua. |
-| 217 | 6 | [zone.nvim](https://api.github.com/repos/tamton-aquib/zone.nvim) | Screensaver plugin for neovim. |
+| 562 | 7 | [duck.nvim](https://api.github.com/repos/tamton-aquib/duck.nvim) | A duck that waddles arbitrarily in neovim. |
+| 318 | 13 | [staline.nvim](https://api.github.com/repos/tamton-aquib/staline.nvim) | A modern lightweight statusline and bufferline plugin for neovim in lua. |
+| 223 | 7 | [zone.nvim](https://api.github.com/repos/tamton-aquib/zone.nvim) | Screensaver plugin for neovim. |
 | 101 | 1 | [flirt.nvim](https://api.github.com/repos/tamton-aquib/flirt.nvim) | A neovim plugin to work with floating windows. |
-| 79 | 2 | [keys.nvim](https://api.github.com/repos/tamton-aquib/keys.nvim) | A screen keys plugin for neovim. |
+| 81 | 1 | [keys.nvim](https://api.github.com/repos/tamton-aquib/keys.nvim) | A screen keys plugin for neovim. |
 | 79 | 1 | [stuff.nvim](https://api.github.com/repos/tamton-aquib/stuff.nvim) | Some semi-util useless plugins put together |
 | 51 | 1 | [nvim](https://api.github.com/repos/tamton-aquib/nvim) | Personal neovim config |
-| 41 | 0 | [essentials.nvim](https://api.github.com/repos/tamton-aquib/essentials.nvim) | Some tiny functions which i use regularly in neovim. Not a plugin per se. |
+| 42 | 0 | [essentials.nvim](https://api.github.com/repos/tamton-aquib/essentials.nvim) | Some tiny functions which i use regularly in neovim. Not a plugin per se. |
 | 33 | 4 | [veldora](https://api.github.com/repos/tamton-aquib/veldora) | A rust program to bruteforce ZIP, PDF and some common hashes. |
-| 31 | 2 | [mpv.nvim](https://api.github.com/repos/tamton-aquib/mpv.nvim) | Music player with mpv. |
+| 30 | 2 | [mpv.nvim](https://api.github.com/repos/tamton-aquib/mpv.nvim) | Music player with mpv. |
 | 24 | 1 | [neorg-jupyter](https://api.github.com/repos/tamton-aquib/neorg-jupyter) | A neorg module to work with jupyter notebooks inside neorg. |
 | 18 | 4 | [ttt](https://api.github.com/repos/tamton-aquib/ttt) | Typing test made with tkinter (python). |
 | 17 | 0 | [ice](https://api.github.com/repos/tamton-aquib/ice) | A simple ctf tool store. |
