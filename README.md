@@ -99,11 +99,11 @@
 
 | :star2: | :fork_and_knife: | Name | Description |
 |---|---|---|---|
-| 580 | 7 | [duck.nvim](https://api.github.com/repos/tamton-aquib/duck.nvim) | A duck that waddles arbitrarily in neovim. |
-| 329 | 13 | [staline.nvim](https://api.github.com/repos/tamton-aquib/staline.nvim) | A modern lightweight statusline and bufferline plugin for neovim in lua. |
-| 234 | 7 | [zone.nvim](https://api.github.com/repos/tamton-aquib/zone.nvim) | Screensaver plugin for neovim. |
+| 585 | 7 | [duck.nvim](https://api.github.com/repos/tamton-aquib/duck.nvim) | A duck that waddles arbitrarily in neovim. |
+| 330 | 13 | [staline.nvim](https://api.github.com/repos/tamton-aquib/staline.nvim) | A modern lightweight statusline and bufferline plugin for neovim in lua. |
+| 237 | 7 | [zone.nvim](https://api.github.com/repos/tamton-aquib/zone.nvim) | Screensaver plugin for neovim. |
 | 101 | 1 | [flirt.nvim](https://api.github.com/repos/tamton-aquib/flirt.nvim) | A neovim plugin to work with floating windows. |
-| 91 | 1 | [stuff.nvim](https://api.github.com/repos/tamton-aquib/stuff.nvim) | Some semi-util useless plugins put together |
+| 92 | 1 | [stuff.nvim](https://api.github.com/repos/tamton-aquib/stuff.nvim) | Some semi-util useless plugins put together |
 | 84 | 1 | [keys.nvim](https://api.github.com/repos/tamton-aquib/keys.nvim) | A screen keys plugin for neovim. |
 | 58 | 1 | [nvim](https://api.github.com/repos/tamton-aquib/nvim) | Personal neovim config |
 | 45 | 2 | [mpv.nvim](https://api.github.com/repos/tamton-aquib/mpv.nvim) | Music player with mpv. |
