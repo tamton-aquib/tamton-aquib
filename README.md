@@ -99,17 +99,17 @@
 
 | :star2: | :fork_and_knife: | Name | Description |
 |---|---|---|---|
-| 597 | 7 | [duck.nvim](https://api.github.com/repos/tamton-aquib/duck.nvim) | A duck that waddles arbitrarily in neovim. |
-| 336 | 13 | [staline.nvim](https://api.github.com/repos/tamton-aquib/staline.nvim) | A modern lightweight statusline and bufferline plugin for neovim in lua. |
-| 243 | 7 | [zone.nvim](https://api.github.com/repos/tamton-aquib/zone.nvim) | Screensaver plugin for neovim. |
-| 102 | 2 | [flirt.nvim](https://api.github.com/repos/tamton-aquib/flirt.nvim) | A neovim plugin to work with floating windows. |
+| 601 | 7 | [duck.nvim](https://api.github.com/repos/tamton-aquib/duck.nvim) | A duck that waddles arbitrarily in neovim. |
+| 340 | 14 | [staline.nvim](https://api.github.com/repos/tamton-aquib/staline.nvim) | A modern lightweight statusline and bufferline plugin for neovim in lua. |
+| 244 | 7 | [zone.nvim](https://api.github.com/repos/tamton-aquib/zone.nvim) | Screensaver plugin for neovim. |
+| 101 | 2 | [flirt.nvim](https://api.github.com/repos/tamton-aquib/flirt.nvim) | A neovim plugin to work with floating windows. |
 | 92 | 1 | [stuff.nvim](https://api.github.com/repos/tamton-aquib/stuff.nvim) | Some semi-util useless plugins put together |
 | 89 | 1 | [keys.nvim](https://api.github.com/repos/tamton-aquib/keys.nvim) | A screen keys plugin for neovim. |
 | 59 | 1 | [nvim](https://api.github.com/repos/tamton-aquib/nvim) | Personal neovim config |
 | 46 | 3 | [mpv.nvim](https://api.github.com/repos/tamton-aquib/mpv.nvim) | Music player with mpv. |
 | 44 | 0 | [essentials.nvim](https://api.github.com/repos/tamton-aquib/essentials.nvim) | Some tiny functions which i use regularly in neovim. Not a plugin per se. |
-| 37 | 4 | [veldora](https://api.github.com/repos/tamton-aquib/veldora) | A rust program to bruteforce ZIP, PDF and some common hashes. |
-| 27 | 2 | [neorg-jupyter](https://api.github.com/repos/tamton-aquib/neorg-jupyter) | A neorg module to work with jupyter notebooks inside neorg. |
+| 38 | 4 | [veldora](https://api.github.com/repos/tamton-aquib/veldora) | A rust program to bruteforce ZIP, PDF and some common hashes. |
+| 28 | 2 | [neorg-jupyter](https://api.github.com/repos/tamton-aquib/neorg-jupyter) | A neorg module to work with jupyter notebooks inside neorg. |
 | 19 | 2 | [dotfiles](https://api.github.com/repos/tamton-aquib/dotfiles) | My personal config files copied from all over the internet. |
 | 19 | 5 | [ttt](https://api.github.com/repos/tamton-aquib/ttt) | Typing test made with tkinter (python). |
 | 18 | 3 | [bruttle](https://api.github.com/repos/tamton-aquib/bruttle) | A small python script to bruteforce zips,pdfs and some popular hashes.  |
