@@ -25,7 +25,7 @@ res = """
 for repo in top_repos:
     res += f"| {repo['stargazers_count']} "
     res += f"| {repo['forks_count']} "
-    res += f"| [{repo['name']}]({repo['url']}) "
+    res += f"| [{repo['name']}]({repo['html_url']}) "
     res += f"| {repo['description']} |\n"
 
 res += """
