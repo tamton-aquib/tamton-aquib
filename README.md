@@ -99,14 +99,14 @@
 
 | :star2: | :fork_and_knife: | Name | Description |
 |---|---|---|---|
-| 611 | 7 | [duck.nvim](https://github.com/tamton-aquib/duck.nvim) | A duck that waddles arbitrarily in neovim. |
+| 613 | 7 | [duck.nvim](https://github.com/tamton-aquib/duck.nvim) | A duck that waddles arbitrarily in neovim. |
 | 360 | 16 | [staline.nvim](https://github.com/tamton-aquib/staline.nvim) | A modern lightweight statusline and bufferline plugin for neovim in lua. |
-| 253 | 7 | [zone.nvim](https://github.com/tamton-aquib/zone.nvim) | Screensaver plugin for neovim. |
+| 254 | 7 | [zone.nvim](https://github.com/tamton-aquib/zone.nvim) | Screensaver plugin for neovim. |
 | 102 | 3 | [flirt.nvim](https://github.com/tamton-aquib/flirt.nvim) | A neovim plugin to work with floating windows. |
-| 98 | 1 | [stuff.nvim](https://github.com/tamton-aquib/stuff.nvim) | Some semi-util useless plugins put together |
+| 99 | 1 | [stuff.nvim](https://github.com/tamton-aquib/stuff.nvim) | Some semi-util useless plugins put together |
 | 91 | 1 | [keys.nvim](https://github.com/tamton-aquib/keys.nvim) | A screen keys plugin for neovim. |
-| 60 | 1 | [nvim](https://github.com/tamton-aquib/nvim) | Personal neovim config |
-| 52 | 3 | [mpv.nvim](https://github.com/tamton-aquib/mpv.nvim) | Music player with mpv. |
+| 61 | 1 | [nvim](https://github.com/tamton-aquib/nvim) | Personal neovim config |
+| 56 | 3 | [mpv.nvim](https://github.com/tamton-aquib/mpv.nvim) | Music player with mpv. |
 | 44 | 0 | [essentials.nvim](https://github.com/tamton-aquib/essentials.nvim) | Some tiny functions which i use regularly in neovim. Not a plugin per se. |
 | 39 | 4 | [veldora](https://github.com/tamton-aquib/veldora) | A rust program to bruteforce ZIP, PDF and some common hashes. |
 | 28 | 2 | [neorg-jupyter](https://github.com/tamton-aquib/neorg-jupyter) | A neorg module to work with jupyter notebooks inside neorg. |
@@ -114,7 +114,7 @@
 | 19 | 4 | [ttt](https://github.com/tamton-aquib/ttt) | Typing test made with tkinter (python). |
 | 18 | 3 | [bruttle](https://github.com/tamton-aquib/bruttle) | A small python script to bruteforce zips,pdfs and some popular hashes.  |
 | 18 | 0 | [ice](https://github.com/tamton-aquib/ice) | A simple ctf tool store. |
-| 18 | 0 | [nvim-market](https://github.com/tamton-aquib/nvim-market) | An extension market plugin for neovim |
+| 18 | 1 | [nvim-market](https://github.com/tamton-aquib/nvim-market) | An extension market plugin for neovim |
 
 <sup>This table was automatically generated as a fun experiment from [this](https://github.com/tamton-aquib/tamton-aquib/blob/main/starz.py) github workflow action.</sup>
 
