@@ -99,13 +99,13 @@
 
 | :star2: | :fork_and_knife: | Name | Description |
 |---|---|---|---|
-| 675 | 8 | [duck.nvim](https://github.com/tamton-aquib/duck.nvim) | A duck that waddles arbitrarily in neovim. |
-| 380 | 17 | [staline.nvim](https://github.com/tamton-aquib/staline.nvim) | A modern lightweight statusline and bufferline plugin for neovim in lua. |
-| 265 | 8 | [zone.nvim](https://github.com/tamton-aquib/zone.nvim) | Screensaver plugin for neovim. |
-| 104 | 1 | [stuff.nvim](https://github.com/tamton-aquib/stuff.nvim) | Some semi-util useless plugins put together |
-| 103 | 4 | [flirt.nvim](https://github.com/tamton-aquib/flirt.nvim) | A neovim plugin to work with floating windows. |
+| 686 | 8 | [duck.nvim](https://github.com/tamton-aquib/duck.nvim) | A duck that waddles arbitrarily in neovim. |
+| 380 | 18 | [staline.nvim](https://github.com/tamton-aquib/staline.nvim) | A modern lightweight statusline and bufferline plugin for neovim in lua. |
+| 268 | 8 | [zone.nvim](https://github.com/tamton-aquib/zone.nvim) | Screensaver plugin for neovim. |
+| 104 | 2 | [stuff.nvim](https://github.com/tamton-aquib/stuff.nvim) | Some semi-util useless plugins put together |
+| 102 | 4 | [flirt.nvim](https://github.com/tamton-aquib/flirt.nvim) | A neovim plugin to work with floating windows. |
 | 98 | 1 | [keys.nvim](https://github.com/tamton-aquib/keys.nvim) | A screen keys plugin for neovim. |
-| 61 | 1 | [nvim](https://github.com/tamton-aquib/nvim) | Personal neovim config |
+| 62 | 1 | [nvim](https://github.com/tamton-aquib/nvim) | Personal neovim config |
 | 56 | 5 | [mpv.nvim](https://github.com/tamton-aquib/mpv.nvim) | Music player with mpv. |
 | 46 | 0 | [essentials.nvim](https://github.com/tamton-aquib/essentials.nvim) | Some tiny functions which i use regularly in neovim. Not a plugin per se. |
 | 37 | 4 | [veldora](https://github.com/tamton-aquib/veldora) | A rust program to bruteforce ZIP, PDF and some common hashes. |
