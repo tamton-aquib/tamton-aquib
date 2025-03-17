@@ -99,7 +99,7 @@
 
 | :star2: | :fork_and_knife: | Name | Description |
 |---|---|---|---|
-| 703 | 9 | [duck.nvim](https://github.com/tamton-aquib/duck.nvim) | A duck that waddles arbitrarily in neovim. |
+| 704 | 9 | [duck.nvim](https://github.com/tamton-aquib/duck.nvim) | A duck that waddles arbitrarily in neovim. |
 | 381 | 19 | [staline.nvim](https://github.com/tamton-aquib/staline.nvim) | A modern lightweight statusline and bufferline plugin for neovim in lua. |
 | 269 | 8 | [zone.nvim](https://github.com/tamton-aquib/zone.nvim) | Screensaver plugin for neovim. |
 | 105 | 1 | [stuff.nvim](https://github.com/tamton-aquib/stuff.nvim) | Some semi-util useless plugins put together |
@@ -107,7 +107,7 @@
 | 98 | 1 | [keys.nvim](https://github.com/tamton-aquib/keys.nvim) | A screen keys plugin for neovim. |
 | 62 | 1 | [nvim](https://github.com/tamton-aquib/nvim) | Personal neovim config |
 | 61 | 7 | [mpv.nvim](https://github.com/tamton-aquib/mpv.nvim) | Music player with mpv. |
-| 47 | 1 | [essentials.nvim](https://github.com/tamton-aquib/essentials.nvim) | Some tiny functions which i use regularly in neovim. Not a plugin per se. |
+| 48 | 1 | [essentials.nvim](https://github.com/tamton-aquib/essentials.nvim) | Some tiny functions which i use regularly in neovim. Not a plugin per se. |
 | 38 | 4 | [veldora](https://github.com/tamton-aquib/veldora) | A rust program to bruteforce ZIP, PDF and some common hashes. |
 | 29 | 3 | [neorg-jupyter](https://github.com/tamton-aquib/neorg-jupyter) | A neorg module to work with jupyter notebooks inside neorg. |
 | 22 | 2 | [dotfiles](https://github.com/tamton-aquib/dotfiles) | My personal config files copied from all over the internet. |
