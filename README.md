@@ -99,7 +99,7 @@
 
 | :star2: | :fork_and_knife: | Name | Description |
 |---|---|---|---|
-| 709 | 9 | [duck.nvim](https://github.com/tamton-aquib/duck.nvim) | A duck that waddles arbitrarily in neovim. |
+| 711 | 10 | [duck.nvim](https://github.com/tamton-aquib/duck.nvim) | A duck that waddles arbitrarily in neovim. |
 | 383 | 20 | [staline.nvim](https://github.com/tamton-aquib/staline.nvim) | A modern lightweight statusline and bufferline plugin for neovim in lua. |
 | 269 | 8 | [zone.nvim](https://github.com/tamton-aquib/zone.nvim) | Screensaver plugin for neovim. |
 | 105 | 4 | [flirt.nvim](https://github.com/tamton-aquib/flirt.nvim) | A neovim plugin to work with floating windows. |
