@@ -106,7 +106,7 @@
 | 105 | 4 | [flirt.nvim](https://github.com/tamton-aquib/flirt.nvim) | A neovim plugin to work with floating windows. |
 | 97 | 1 | [keys.nvim](https://github.com/tamton-aquib/keys.nvim) | A screen keys plugin for neovim. |
 | 63 | 7 | [mpv.nvim](https://github.com/tamton-aquib/mpv.nvim) | Music player with mpv. |
-| 61 | 1 | [nvim](https://github.com/tamton-aquib/nvim) | Personal neovim config |
+| 62 | 1 | [nvim](https://github.com/tamton-aquib/nvim) | Personal neovim config |
 | 48 | 1 | [essentials.nvim](https://github.com/tamton-aquib/essentials.nvim) | Some tiny functions which i use regularly in neovim. Not a plugin per se. |
 | 38 | 4 | [veldora](https://github.com/tamton-aquib/veldora) | A rust program to bruteforce ZIP, PDF and some common hashes. |
 | 29 | 2 | [neorg-jupyter](https://github.com/tamton-aquib/neorg-jupyter) | A neorg module to work with jupyter notebooks inside neorg. |
