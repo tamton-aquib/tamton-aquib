@@ -27,13 +27,13 @@
 
 <div align="center">
 
-[![Aquib's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamton-aquib&hide=prs&custom_title=My%20Github%20Stat's&show_icons=true&theme=dracula&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/anuraghazra/github-readme-stats)
+[![Aquib's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=tamton-aquib&hide=prs&custom_title=My%20Github%20Stat's&show_icons=true&theme=dracula&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/anuraghazra/github-readme-stats-fast)
 
 </div>
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamton-aquib&hide=Vim+Script,Emacs+Lisp,Lua,CSS,C,Roff&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tamton-aquib&hide=Vim+Script,Emacs+Lisp,Lua,CSS,C,Roff&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats-fast)
 
 </div>
 </span>
