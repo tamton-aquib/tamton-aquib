@@ -107,7 +107,6 @@
 | 72 | 9 | [mpv.nvim](https://github.com/tamton-aquib/mpv.nvim) | Music player with mpv. |
 | 64 | 1 | [nvim](https://github.com/tamton-aquib/nvim) | Personal neovim config |
 | 50 | 1 | [essentials.nvim](https://github.com/tamton-aquib/essentials.nvim) | Some tiny functions which i use regularly in neovim. Not a plugin per se. |
-| 40 | 4 | [veldora](https://github.com/tamton-aquib/veldora) | A rust program to bruteforce ZIP, PDF and some common hashes. |
 | 30 | 2 | [neorg-jupyter](https://github.com/tamton-aquib/neorg-jupyter) | A neorg module to work with jupyter notebooks inside neorg. |
 | 23 | 2 | [dotfiles](https://github.com/tamton-aquib/dotfiles) | My personal config files copied from all over the internet. |
 | 20 | 0 | [ice](https://github.com/tamton-aquib/ice) | A simple ctf tool store. |
