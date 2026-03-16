@@ -99,7 +99,7 @@
 
 | :star2: | :fork_and_knife: | Name | Description |
 |---|---|---|---|
-| 751 | 10 | [duck.nvim](https://github.com/tamton-aquib/duck.nvim) | A duck that waddles arbitrarily in neovim. |
+| 753 | 10 | [duck.nvim](https://github.com/tamton-aquib/duck.nvim) | A duck that waddles arbitrarily in neovim. |
 | 394 | 21 | [staline.nvim](https://github.com/tamton-aquib/staline.nvim) | A modern lightweight statusline and bufferline plugin for neovim in lua. |
 | 107 | 1 | [stuff.nvim](https://github.com/tamton-aquib/stuff.nvim) | Some semi-util useless plugins put together |
 | 105 | 4 | [flirt.nvim](https://github.com/tamton-aquib/flirt.nvim) | A neovim plugin to work with floating windows. |
@@ -113,7 +113,6 @@
 | 20 | 0 | [ice](https://github.com/tamton-aquib/ice) | A simple ctf tool store. |
 | 20 | 3 | [ttt](https://github.com/tamton-aquib/ttt) | Typing test made with tkinter (python). |
 | 19 | 3 | [bruttle](https://github.com/tamton-aquib/bruttle) | A small python script to bruteforce zips,pdfs and some popular hashes.  |
-| 16 | 1 | [nvim-market](https://github.com/tamton-aquib/nvim-market) | An extension market plugin for neovim |
 
 <sup>This table was automatically generated as a fun experiment from [this](https://github.com/tamton-aquib/tamton-aquib/blob/main/starz.py) github workflow action.</sup>
 
