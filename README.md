@@ -99,13 +99,13 @@
 
 | :star2: | :fork_and_knife: | Name | Description |
 |---|---|---|---|
-| 755 | 10 | [duck.nvim](https://github.com/tamton-aquib/duck.nvim) | A duck that waddles arbitrarily in neovim. |
+| 756 | 11 | [duck.nvim](https://github.com/tamton-aquib/duck.nvim) | A duck that waddles arbitrarily in neovim. |
 | 396 | 22 | [staline.nvim](https://github.com/tamton-aquib/staline.nvim) | A modern lightweight statusline and bufferline plugin for neovim in lua. |
 | 107 | 1 | [stuff.nvim](https://github.com/tamton-aquib/stuff.nvim) | Some semi-util useless plugins put together |
 | 105 | 4 | [flirt.nvim](https://github.com/tamton-aquib/flirt.nvim) | A neovim plugin to work with floating windows. |
 | 101 | 1 | [keys.nvim](https://github.com/tamton-aquib/keys.nvim) | A screen keys plugin for neovim. |
-| 71 | 9 | [mpv.nvim](https://github.com/tamton-aquib/mpv.nvim) | Music player with mpv. |
-| 65 | 1 | [nvim](https://github.com/tamton-aquib/nvim) | Personal neovim config |
+| 72 | 9 | [mpv.nvim](https://github.com/tamton-aquib/mpv.nvim) | Music player with mpv. |
+| 66 | 1 | [nvim](https://github.com/tamton-aquib/nvim) | Personal neovim config |
 | 51 | 1 | [essentials.nvim](https://github.com/tamton-aquib/essentials.nvim) | Some tiny functions which i use regularly in neovim. Not a plugin per se. |
 | 30 | 2 | [neorg-jupyter](https://github.com/tamton-aquib/neorg-jupyter) | A neorg module to work with jupyter notebooks inside neorg. |
 | 23 | 1 | [ads.nvim](https://github.com/tamton-aquib/ads.nvim) | Advertisements inside Neovim.  (no electron required) |
