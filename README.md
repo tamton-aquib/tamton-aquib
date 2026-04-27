@@ -110,7 +110,7 @@
 | 30 | 2 | [neorg-jupyter](https://github.com/tamton-aquib/neorg-jupyter) | A neorg module to work with jupyter notebooks inside neorg. |
 | 23 | 1 | [ads.nvim](https://github.com/tamton-aquib/ads.nvim) | Advertisements inside Neovim.  (no electron required) |
 | 23 | 2 | [dotfiles](https://github.com/tamton-aquib/dotfiles) | My personal config files copied from all over the internet. |
-| 20 | 0 | [ice](https://github.com/tamton-aquib/ice) | A simple ctf tool store. |
+| 21 | 0 | [ice](https://github.com/tamton-aquib/ice) | A simple ctf tool store. |
 | 20 | 3 | [ttt](https://github.com/tamton-aquib/ttt) | Typing test made with tkinter (python). |
 | 19 | 3 | [bruttle](https://github.com/tamton-aquib/bruttle) | A small python script to bruteforce zips,pdfs and some popular hashes.  |
 
