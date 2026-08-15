@@ -18,6 +18,12 @@
 	<img src="https://img.icons8.com/ios-filled/50/fa314a/java-coffee-cup-logo--v1.png" width="30"/>
 	<img src="https://img.icons8.com/ios-filled/50/4a90e2/python.png" width="30"/> &nbsp;
 	<img src="https://img.icons8.com/material-sharp/50/fa314a/crab.png" width="30"/>
+	<img src="https://cdn.simpleicons.org/lua/4a90e2" width="30"/>
+	<img src="https://cdn.simpleicons.org/neovim/fa314a" width="30"/>
+	<img src="https://cdn.simpleicons.org/gnubash/4a90e2" width="30"/>
+	<img src="https://cdn.simpleicons.org/typescript/fa314a" width="30"/>
+	<img src="https://cdn.simpleicons.org/react/4a90e2" width="30"/>
+	<img src="https://cdn.simpleicons.org/nodedotjs/fa314a" width="30"/>
 	<img src="https://img.icons8.com/wired/64/4a90e2/svetle.png"/ width="30">
 </p>
 
@@ -42,79 +48,47 @@
 
 <h3 align="center">Projects</h3>
 
-#### Python related
-<table>
-<tr>
-    <td><a target="_blank" href="https://github.com/tamton-aquib/LoanPy">LoanPy</a></td>
-    <td>Real-time Loan prediction with machine learning.</td>
-</tr>
-<tr>
-    <td><a target="_blank" href="https://github.com/tamton-aquib/bruttle">bruttle</a></td>
-    <td>Bruteforce script for zip, pdf, hashes.</td>
-</tr>
-<tr>
-    <td><a target="_blank" href="https://github.com/tamton-aquib/ttt">ttt</a></td>
-    <td>Typing Test with Tinkter.</td>
-</tr>
-</table>
+<div align="center">
 
+| Name | Description |
+|---|---|
+| [axlenote](https://github.com/tamton-aquib/axlenote) | Garage management without the SaaS. |
+| [ice](https://github.com/tamton-aquib/ice) | A simple ctf tool store. |
+| [graveyard](https://github.com/tamton-aquib/graveyard) | Some of my small rust side projects |
+| [Dep](https://github.com/tamton-aquib/Dep) | chrome/brave extension for viewing dependencies for rust, python, js, dart, etc. |
+| [bingolfy](https://github.com/tamton-aquib/bingolfy) | A multiplayer web app game of BINGO. |
+| [veldora](https://github.com/tamton-aquib/veldora) | A rust program to bruteforce ZIP, PDF and some common hashes. |
+| [GTA](https://github.com/tamton-aquib/GTA) | Github Trending API |
+| [agrogasm](https://github.com/tamton-aquib/agrogasm) | An app(to-be) to help farmers connect along with weather notifications. |
+| [imreco](https://github.com/tamton-aquib/imreco) | A python cli program to perform basic operations to images using opencv. |
+| [steggi](https://github.com/tamton-aquib/steggi) | Stegsolve like program in python with opencv and tkinter. |
 
-#### Neovim related (lua)
-<table>
-<tr>
-    <td><a target="_blank" href="https://github.com/tamton-aquib/zone.nvim">zone.nvim</a></td>
-    <td>Screensaver plugin for neovim.</td>
-</tr>
-<tr>
-    <td><a target="_blank" href="https://github.com/tamton-aquib/staline.nvim">staline.nvim</a></td>
-    <td>Modern lightweight statusline.</td>
-</tr>
-<tr>
-    <td><a target="_blank" href="https://github.com/tamton-aquib/duck.nvim">duck.nvim</a></td>
-    <td>A duck that waddles arbitrarily.</td>
-</tr>
-</table>
-
-#### Rust related
-<table>
-<tr>
-    <td><a target="_blank" href="https://github.com/tamton-aquib/veldora">veldora</a></td>
-    <td>Bruteforce zip, pdf, hashes.</td>
-</tr>
-<tr>
-    <td><a target="_blank" href="https://github.com/tamton-aquib/ice">ice</a></td>
-    <td>A lightweight utility for CTFs. (WIP)</td>
-</tr>
-<tr>
-    <td><a target="_blank" href="https://github.com/tamton-aquib/lazycrate">lazycrate</a></td>
-    <td>TUI for crate management like lazynpm and lazygit. (WIP)</td>
-</tr>
-</table>
+</div>
 
 ---
 
 <!-- BEGIN -->
 
-<h3 align="center">My Popular Projects</h3>
+<h3 align="center">Neovim plugins</h3>
+
+<div align="center">
 
 | :star2: | :fork_and_knife: | Name | Description |
 |---|---|---|---|
 | 749 | 11 | [duck.nvim](https://github.com/tamton-aquib/duck.nvim) | A duck that waddles arbitrarily in neovim. |
-| 399 | 22 | [staline.nvim](https://github.com/tamton-aquib/staline.nvim) | A modern lightweight statusline and bufferline plugin for neovim in lua. |
+| 399 | 21 | [staline.nvim](https://github.com/tamton-aquib/staline.nvim) | A modern lightweight statusline and bufferline plugin for neovim in lua. |
+| 275 | 11 | [zone.nvim](https://github.com/tamton-aquib/zone.nvim) | Screensaver plugin for neovim. |
 | 106 | 1 | [stuff.nvim](https://github.com/tamton-aquib/stuff.nvim) | Some semi-util useless plugins put together |
 | 104 | 4 | [flirt.nvim](https://github.com/tamton-aquib/flirt.nvim) | A neovim plugin to work with floating windows. |
 | 104 | 1 | [keys.nvim](https://github.com/tamton-aquib/keys.nvim) | A screen keys plugin for neovim. |
 | 70 | 8 | [mpv.nvim](https://github.com/tamton-aquib/mpv.nvim) | Music player with mpv. |
-| 66 | 1 | [nvim](https://github.com/tamton-aquib/nvim) | Personal neovim config |
 | 52 | 1 | [essentials.nvim](https://github.com/tamton-aquib/essentials.nvim) | Some tiny functions which i use regularly in neovim. Not a plugin per se. |
 | 46 | 2 | [ads.nvim](https://github.com/tamton-aquib/ads.nvim) | Advertisements inside Neovim.  (no electron required) |
-| 33 | 2 | [neorg-jupyter](https://github.com/tamton-aquib/neorg-jupyter) | A neorg module to work with jupyter notebooks inside neorg. |
-| 23 | 2 | [dotfiles](https://github.com/tamton-aquib/dotfiles) | My personal config files copied from all over the internet. |
-| 21 | 0 | [ice](https://github.com/tamton-aquib/ice) | A simple ctf tool store. |
-| 20 | 3 | [ttt](https://github.com/tamton-aquib/ttt) | Typing test made with tkinter (python). |
-| 19 | 3 | [bruttle](https://github.com/tamton-aquib/bruttle) | A small python script to bruteforce zips,pdfs and some popular hashes.  |
+| 15 | 0 | [dynamic-cursor.nvim](https://github.com/tamton-aquib/dynamic-cursor.nvim) | inverts the cursor color (as some terminals like kitty doesn't support it) |
 
 <sup>This table was automatically generated as a fun experiment from [this](https://github.com/tamton-aquib/tamton-aquib/blob/main/starz.py) github workflow action.</sup>
+
+</div>
 
 ---
 
@@ -130,5 +104,11 @@
 </a>&ensp;
 <a href="https://twitter.com/tamton_aquib" target="blank">
 	<img align="center" target="_blank" src="https://img.icons8.com/plasticine/100/000000/twitter--v2.png" alt="tamton_aquib" width="30" />
+</a>&ensp;
+<a href="https://tamton.dev" target="blank">
+	<img align="center" src="https://img.icons8.com/ios-filled/50/4a90e2/globe.png" alt="tamton.dev" width="30" />
+</a>&ensp;
+<a href="mailto:aquibjavedt007@gmail.com" target="blank">
+	<img align="center" src="https://img.icons8.com/ios-filled/50/fa314a/email.png" alt="email" width="30" />
 </a>
 </p>
