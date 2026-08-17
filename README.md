@@ -75,20 +75,20 @@
 
 | :star2: | :fork_and_knife: | Name | Description |
 |---|---|---|---|
-| 749 | 11 | [duck.nvim](https://github.com/tamton-aquib/duck.nvim) | A duck that waddles arbitrarily in neovim. |
+| 751 | 11 | [duck.nvim](https://github.com/tamton-aquib/duck.nvim) | A duck that waddles arbitrarily in neovim. |
 | 399 | 21 | [staline.nvim](https://github.com/tamton-aquib/staline.nvim) | A modern lightweight statusline and bufferline plugin for neovim in lua. |
 | 275 | 11 | [zone.nvim](https://github.com/tamton-aquib/zone.nvim) | Screensaver plugin for neovim. |
 | 106 | 1 | [stuff.nvim](https://github.com/tamton-aquib/stuff.nvim) | Some semi-util useless plugins put together |
 | 104 | 4 | [flirt.nvim](https://github.com/tamton-aquib/flirt.nvim) | A neovim plugin to work with floating windows. |
 | 104 | 1 | [keys.nvim](https://github.com/tamton-aquib/keys.nvim) | A screen keys plugin for neovim. |
-| 70 | 8 | [mpv.nvim](https://github.com/tamton-aquib/mpv.nvim) | Music player with mpv. |
+| 69 | 8 | [mpv.nvim](https://github.com/tamton-aquib/mpv.nvim) | Music player with mpv. |
 | 52 | 1 | [essentials.nvim](https://github.com/tamton-aquib/essentials.nvim) | Some tiny functions which i use regularly in neovim. Not a plugin per se. |
 | 46 | 2 | [ads.nvim](https://github.com/tamton-aquib/ads.nvim) | Advertisements inside Neovim.  (no electron required) |
 | 15 | 0 | [dynamic-cursor.nvim](https://github.com/tamton-aquib/dynamic-cursor.nvim) | inverts the cursor color (as some terminals like kitty doesn't support it) |
 
-<sup>This table was automatically generated as a fun experiment from [this](https://github.com/tamton-aquib/tamton-aquib/blob/main/starz.py) github workflow action.</sup>
-
 </div>
+
+<sup>This table was automatically generated as a fun experiment from [this](https://github.com/tamton-aquib/tamton-aquib/blob/main/starz.py) github workflow action.</sup>
 
 ---
 
